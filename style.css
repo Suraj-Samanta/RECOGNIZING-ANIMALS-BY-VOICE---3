@@ -1,0 +1,31 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    background: rgb(248, 230, 133);
+}
+.header_div{
+    background-color: aliceblue;
+    color:blue;
+}
+.headrer_div p{
+    font-family: 'Roboto Mono', sans-serif;
+font-weight: bolder;
+letter-spacing: 5px;
+font-size:  12px; 
+}
+.main_div{
+    font-family: 'Oswald', sans-serif;
+    margin-top:30px ;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.footer{
+    background-color: aliceblue;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    text-shadow: 5px 5px 5px gray;
+    line-height: 3;
+    font-size: 18px;
+    bottom: 0;
+}
